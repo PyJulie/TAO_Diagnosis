@@ -2,11 +2,13 @@
 
 # TAO_Diagnosis
 
-This is an official Pytorch implementation of the paper *"An Intelligent Diagnostic System for Thyroid-Associated Ophthalmopathy based on Facial Images"*. The whole system consists of three main modules.
+
 
 ![img1](./imgs/framework.png)
 
-** \* ** It should be noted that you need to prepare your own data following the given instructions below.
+This is an official Pytorch implementation of the paper *"An Intelligent Diagnostic System for Thyroid-Associated Ophthalmopathy based on Facial Images"*. The whole system consists of three main modules.
+
+__ \* __ It should be noted that you need to prepare your own data following the given instructions below.
 
 ## 0. Installation
 1. Python3
