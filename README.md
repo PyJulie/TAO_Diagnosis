@@ -131,6 +131,8 @@ for line in txt[1:]:
   all_samples.append(name)
 
 #split your data, e.g., random
+import random
+random.shuffle(all_samples)
 train_samples = all_samples[:int(ratio*len(all_samples))]
 valid_samples = all_samples[int(ratio*len(all_samples)):]
 
