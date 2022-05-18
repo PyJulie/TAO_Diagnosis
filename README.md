@@ -6,6 +6,8 @@ This is an official Pytorch implementation of the paper *"An Intelligent Diagnos
 
 ![img1](./imgs/framework.png)
 
+** * ** It should be noted that you need to prepare your own data following the given instructions below.
+
 ## 0. Installation
 1. Python3
 2. PyTorch 1.0 or higher
