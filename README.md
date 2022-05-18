@@ -1,10 +1,4 @@
----
-attachments: [2dlandmarks.png, framework.png]
-tags: [Import-66c3]
-title: TAO_Diagnosis
-created: '2022-05-18T05:27:16.198Z'
-modified: '2022-05-18T07:14:55.758Z'
----
+
 
 # TAO_Diagnosis
 
